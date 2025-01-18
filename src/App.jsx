@@ -1,7 +1,7 @@
 import React, { useEffect } from "react"
 import 'aos/dist/aos.css'
 import Aos from 'aos'
-import Hero from "./components/hero/hero"
+import Hero from "./components/hero/Hero"
 import Skills from "./components/skills/Skills"
 import Experience from "./components/experience/Experience"
 import Language from "./components/language/Language"
