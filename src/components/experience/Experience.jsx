@@ -17,12 +17,20 @@ export default function Experience() {
         </div>
         <div data-aos='fade-left' data-aos-delay='400' className='lg:flex-grow md:w-1/2 lg:pl-8 md:pl-8 flex flex-col md:text-left items-start text-center'>
              <h1 className='title-font sm:text-4xl text-3xl mb-4  font-medium text-orange-500'>Experience</h1>
-             <h2 className='title-font font-bold text-white sm:text-2xl'>2024 :</h2>
-             <p className='mb-8 text-white leading-relaxed'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis nam rem illum ratione ut 
-                dicta facilis quisquam laborum perspiciatis eum sequi iste, porro minima optio voluptatibus aliquid ducimus atque obcaecati.</p>
-             <h2 className='title-font font-bold text-white sm:text-2xl'>2025 :</h2>
-             <p className='mb-8 text-white leading-relaxed'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis nam rem illum ratione ut 
-                dicta facilis quisquam laborum perspiciatis eum sequi iste, porro minima optio voluptatibus aliquid ducimus atque obcaecati.</p>
+             <h2 className='title-font font-bold text-white sm:text-2xl'>DevOps Engineer | XYZ Tech Solutions  
+May 2025 – Present  :</h2>
+             <p className='mb-8 text-white leading-relaxed'>- Developed automated CI/CD pipelines using Jenkins and Terraform, reducing deployment time and errors.  
+- Managed Kubernetes clusters to ensure high availability and scalability of containerized applications.  
+- Implemented network security best practices, including firewall configuration and VPN access management.  
+- Monitored infrastructure health using Prometheus and Grafana, with proactive alerting to minimize downtime.
+.</p>
+             <h2 className='title-font font-bold text-white sm:text-2xl'>Network Engineer | ABC Networks Ltd  
+May 2024 – May 2025   :</h2>
+             <p className='mb-8 text-white leading-relaxed'> - Configured and maintained enterprise network devices such as routers, switches, and firewalls.  
+- Designed and deployed VPN solutions for secure remote user connectivity.  
+- Performed network troubleshooting and performance tuning to optimize operations.  
+- Collaborated with security teams on intrusion detection and prevention system implementations.
+  </p>
         </div>
         </div>
 
