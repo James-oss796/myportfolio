@@ -28,9 +28,9 @@ export default function Hero() {
                           className='absolute top-[350px] left-44 md:top-[-30px] md:left-[450px] 
                           transform -translate-x-1/2 -translate-y-1/2 w-20 h-20' />
                         <h1 className='title-font sm:text-4xl text-4xl mb-4 font-bold text-white'>Hi! I'm <span className='text-orange-500 font-bold size-20'>JAMES</span></h1>
-                            <p data-aos='fade-right' data-aos-delay='600' className='mb-8 leading-relaxed'>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                                Mollitia veniam qui distinctio ipsam quis eum architecto aspernatur modi,
-                                 cumque quasi beatae ipsum sunt non ducimus accusantium ratione? Voluptatibus, in et.
+                            <p data-aos='fade-right' data-aos-delay='600' className='mb-8 leading-relaxed'>Hi, I’m James Brian Ndung'u, a passionate DevOps Engineer and Networking Specialist.
+                              I design and maintain scalable, secure cloud infrastructure and enterprise networks using modern automation and monitoring tools. I love solving complex problems with clean, reliable solutions.
+
                             </p>
                             <div className='flex justify-center'>
                               <a href={CV} download> 
